@@ -16,3 +16,6 @@ ivandavid14
 Tuesday 4-6pm
 
 <img src="http://octodex.github.com/images/stormtroopocat.png">
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
