@@ -15,4 +15,4 @@ ivandavid14
 
 Tuesday 4-6pm
 
-<img src="http://octodex.github.com/FIRSTocat">
+<img src="http://octodex.github.com/images/stormtroopocat.png">
