@@ -15,4 +15,4 @@ ivandavid14
 
 Tuesday 4-6pm
 
-<image src="http://octodex.github.com/labtocat/">
+<img src="http://octodex.github.com/FIRSTocat">
